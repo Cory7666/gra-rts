@@ -1,7 +1,6 @@
-include-foreign/
-build/
+include-foreign
+build
 
-gra
 a.out
 *.exe
 *.exec
